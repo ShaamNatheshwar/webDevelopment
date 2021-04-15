@@ -1,0 +1,15 @@
+firstElementChild - this gives the first child tag in the html 
+document.querySelector("ul") - helps in quicker finding of tags
+change.innerHTML - Helps in modifying the text content in side the tag
+document.getElementsByTagName - this helps in selecting stuffs all under a tagname
+style.color - gives color
+getElementsByClassName - by class name say like button anol
+getElementById - by ID since we have one id its singular
+querySelector() - This helps in finding all sorts of elements
+querySelector('li a') - make sure they are hierarchical
+document.querySelectorAll - finding all sorts of stuffs with same , ID and class
+document.querySelector("button").classList.add/remove/toggle("invisible"); = this helps in changing those attributes 
+we can add class by again mentioning in css
+textcontent - doesn't shows all the stuffs inside tag
+attributes - for all attributes 
+set attributes / get - for getting and setting make sure we use diff parametres
