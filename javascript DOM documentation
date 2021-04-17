@@ -13,3 +13,5 @@ we can add class by again mentioning in css
 textcontent - doesn't shows all the stuffs inside tag
 attributes - for all attributes 
 set attributes / get - for getting and setting make sure we use diff parametres
+eventListener - it listen when something is done say clicking anol also has 2 parametres
+when evr parenthesis is added it shows of immediately this is called as straight away listener
