@@ -27,3 +27,6 @@ The <div> tag is easily styled by using the class or id attribute.
 Any sort of content can be put inside the <div> tag! 
 
 
+mr/ml - for moving navbar stuffs
+
+container - reduces the size to centre
