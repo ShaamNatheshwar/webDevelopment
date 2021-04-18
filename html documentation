@@ -1,0 +1,29 @@
+ section
+ The HTML <section> element represents a generic standalone section of a document, which doesn't have a more specific semantic element to represent it. 
+Sections should always have a heading, with very few exceptions.
+
+ID #
+The HTML id attribute is used to specify a unique id for an HTML element.
+You cannot have more than one element with the same id in an HTML document.
+Using The id Attribute
+The id attribute specifies a unique id for an HTML element. The value of the id attribute must be unique within the HTML document.
+The id attribute is used to point to a specific style declaration in a style sheet. It is also used by JavaScript to access and manipulate the element with the specific id.
+The syntax for id is: write a hash character (#), followed by an id name. Then, define the CSS properties within curly braces {}.
+In the following example we have an <h1> element that points to the id name "myHeader". This <h1> element will be styled according to the #myHeader style definition in the head section:
+
+
+Class . 
+The HTML class attribute is used to specify a class for an HTML element.
+Multiple HTML elements can share the same class.
+Using The class Attribute
+The class attribute is often used to point to a class name in a style sheet. It can also be used by a JavaScript to access and manipulate elements with the specific class name.
+In the following example we have three <div> elements with a class attribute with the value of "city". All of the three <div> elements will be styled equally according to the .city style definition in the head section:
+
+
+Div 
+The <div> tag defines a division or a section in an HTML document.
+The <div> tag is used as a container for HTML elements - which is then styled with CSS or manipulated with JavaScript.
+The <div> tag is easily styled by using the class or id attribute.
+Any sort of content can be put inside the <div> tag! 
+
+
