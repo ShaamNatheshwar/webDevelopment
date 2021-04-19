@@ -1,0 +1,7 @@
+Navbars
+the first line navbar navbar expand-lg this helps in stacking row wise
+bg dark for for having background color of our own
+navbar dark gives white shade to text inside nav
+navbar brand this should be on top say like with an anchor tag this gives a brand to our nav
+ml - auto = to move containers to the right of nav
+collapse - navbar - collapse to collapse stuffs together say like an hamburger needs id - navtogglerdemo2
