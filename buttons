@@ -1,2 +1,7 @@
 for buttons always include a class
 class = "btn btn-dark btn-primary"
+
+
+place font awesome always after class and in btw the text 
+
+we can use custom class just by giving a name after the main class and calling them in css
