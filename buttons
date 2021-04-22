@@ -1,0 +1,2 @@
+for buttons always include a class
+class = "btn btn-dark btn-primary"
