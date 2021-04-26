@@ -1,0 +1,37 @@
+every element has 3 axis the x.y,z we can make the order come towards us using z index
+<body>
+    <div class='red'>
+    red
+  </div>
+  <div class='blue'>
+    blue
+  </div>
+  <div class='green'>
+    green
+  </div>
+
+</body>
+
+
+div {
+  width :100px;
+  height : 100px;
+  position: absolute;
+}
+.red {
+  background-color: red;
+  top:20px;
+  left:20px;
+}
+.blue {
+  background-color: blue;
+}
+.green{
+  background-color: green; 
+  top:40px;
+  left:40px;
+  
+}
+position is really important mostly absolute and relative depends
+
+if both elements are present along with html flow no need of z index for stacking just use relative
