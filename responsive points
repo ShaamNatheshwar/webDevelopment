@@ -1,1 +1,16 @@
 
+media query plays an vital role in making web pages responsive
+<body>
+  <h1>Shaam</h1>
+
+</body>
+
+@mediaquery print
+h1 {
+  color: red;
+}
+
+a basic media query syntax 
+@mediaquery screen(min-width : 900px) {
+}
+can use multiple attributes using and
