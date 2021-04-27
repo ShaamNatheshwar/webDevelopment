@@ -1,0 +1,5 @@
+class - this helps in differentiating tagged elements so tht we can style in css
+uses dot attributes . before any styling
+id = should be used only once 
+follows a pound # sign
+a:hover uses a colon sign before showing them as pseudo class
