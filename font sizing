@@ -1,0 +1,6 @@
+px - its is static so when u have a change in zooming it doesn't change
+% - 16 so if we want 90 = 90 / 16 * 100 = 562.0 % dynamic
+em - stands usually for the word called M
+where 1em = 16px = 100% this is dynamic changes accordingly
+em is inheriable it 2 em in parent will be multiplied
+rem-root em just don't inherit from parent
