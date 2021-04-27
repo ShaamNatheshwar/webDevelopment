@@ -1,1 +1,2 @@
-it is used to show the icon
+it is used to show the icon along with the tab say for google and youtube
+link rel = "icon" src = "sss.ico"
