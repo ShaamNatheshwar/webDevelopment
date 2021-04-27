@@ -1,0 +1,2 @@
+divs as such doesn't do any thing they have an height of 0 px so they need css to be fully functional 
+also div contains margins of there own even if u try to modify divs h1 doesn't allow u tho so incase of small websites make sure we have margins 0
