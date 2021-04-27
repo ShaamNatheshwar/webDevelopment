@@ -1,0 +1,17 @@
+css has 4 display property
+block - 
+  takes the whole width of the display doesn't allow other to form
+     p , li , h1-h6 , 
+  div , forms  width can be changed
+  use span inorder to edit internally
+inline block - 
+    as the name suggest it overcomes the difficulties faced by both inline and block
+    we can change width using this 
+inline -
+    takes space as much as they needed not like block 
+    width doesn't change 
+       span img anchor
+     
+none -
+    helps in removing the element
+    visibility holds the place but disappears
