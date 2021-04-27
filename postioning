@@ -1,0 +1,11 @@
+Static - 
+   go along with html rules keep its flow default
+Relative - 
+   say if we give left L : 30px it moves towards right...its like ghost it will posses on other lol
+
+Absolute -
+    we are postioning relative to its parent right:30px it moves r8
+    affects the position
+    when u give it a parent say a container it then acts accordingly say position is relative it does relative stuffs
+Fixed - 
+   despite of scrolling it will be stay as it is
