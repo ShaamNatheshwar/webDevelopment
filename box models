@@ -1,0 +1,16 @@
+these play an important role
+they can be either mentioned in pixels or in percentage to takee out stuffs
+if we use solid it shows up 3 pixels solid border
+border - this is boundary
+width gives u additional increase in size say if we have border width - 50 px we have additional width
+we can specify wat we want say by mentioning border top so on
+or if we are lazy we use circularing 0px 0px 0px 0px which forms in a clockwise direction
+
+padding - btw margin and content
+say ifwe want space bw content and margin we will go for padding 
+padding : 20px;
+
+margin - outside the border separating between different stuffs
+margin:10px;
+
+
