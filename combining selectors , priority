@@ -1,0 +1,8 @@
+selector1, selector2 { 
+}
+in other cases 
+selector1 selector2{
+parent on the left aand child on the right
+}
+
+h1<class<id< the level of priority
