@@ -14,4 +14,11 @@ textcontent - doesn't shows all the stuffs inside tag
 attributes - for all attributes 
 set attributes / get - for getting and setting make sure we use diff parametres
 eventListener - it listen when something is done say clicking anol also has 2 parametres
-when evr parenthesis is added it shows of immediately this is called as straight away listener
+     1) type say what will it listern like mouse click 
+     2) it say what to be done like handle cllick
+when evr parenthesis is added it shows of immediately this is called as straight away listener...handleClick()
+
+
+java script - objects
+constructor function - no need of camel casing
+var bellBoy1 = new BellBoy("shaam",19,True,["english","telugu"]
