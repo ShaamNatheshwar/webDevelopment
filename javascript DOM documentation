@@ -19,6 +19,70 @@ eventListener - it listen when something is done say clicking anol also has 2 pa
 when evr parenthesis is added it shows of immediately this is called as straight away listener...handleClick()
 
 
+##higher order functions
+use $0 for grabbing the text u need change using console
+     $0.addevenListener("click",function() {
+      console.log("I got clicked")
+      }));
+      this code shows tht I got clicked when ever I click it
+for calculating instead of such a tedious process
+     function calculator(num1,num2,ooperator) {
+     return operator(num1,num2)
+     }
+debugger -
+          This helps in debugging stuffs just type debugger in console
+the functions tht take up other is called as higher order
+
+
+##how to add sounds
+var audio = new Audio("filename.mp3")
+audio.play()
+   this helps in triggering 
+   this.set.color=("white")helps in changing color
+
+
 java script - objects
-constructor function - no need of camel casing
-var bellBoy1 = new BellBoy("shaam",19,True,["english","telugu"]
+creating an object
+    var houseKeeper1 {
+    name :"shaam";
+    age : 19
+    work : ["money","room"]
+    }
+    
+ create a factory to manage lots of data
+ no camelcasing
+ function BellBoy (name,age,work,language){
+ this:name=name
+ .
+ .
+ } so on like it has features in it
+ then in console
+ var houseKeeper1 = new(this is important)HouseKeeper("shaam",19)
+ change this no need to do from first
+ 
+
+switch -
+    takes the variable based on the switch not like if else
+var buttonInnerHTML = this.innerHTML
+switch(buttonInnerHTML){
+case "w":
+var audio = new Audio("filename.mp3")
+audio.play()
+break:
+default: like else statement
+}
+
+move suitcase dot notation
+function BellBoy (name,age,work,language){
+ this:name=name
+ this.movesuitcase = function(){
+ alert("can I take the suitcase")
+ pickupsuitcase();
+ move();
+ }
+ in console
+ var hk1 = new hk("jame",12,['bed'])
+ hk1.clean()
+ this gives an output called clean
+ 
+ 
