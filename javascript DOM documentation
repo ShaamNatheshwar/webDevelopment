@@ -1,8 +1,24 @@
+#place src just at the bottom of the body
+main stuff - document
+the stuff inside body and head children 
+for getting more stuffs use a dot operator .
+lastElementChild - this gives the last child
+has 2 stuffs properties and methods
+method
+.click()
+.appendChild()
+properties -
+.innerHTML
+.document 
+
+
 firstElementChild - this gives the first child tag in the html 
 document.querySelector("ul") - helps in quicker finding of tags
 change.innerHTML - Helps in modifying the text content in side the tag
 document.getElementsByTagName - this helps in selecting stuffs all under a tagname
 style.color - gives color
+getElementbyTagName("li") - for getting stuffs from tagName .... choose the items [] to modify it...  .length for getting
+uses hierarchical selector
 getElementsByClassName - by class name say like button anol
 getElementById - by ID since we have one id its singular
 querySelector() - This helps in finding all sorts of elements
