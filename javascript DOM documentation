@@ -86,3 +86,36 @@ function BellBoy (name,age,work,language){
  this gives an output called clean
  
  
+##keyboard event listener
+document.addeventListener("keypress",function(){  document is added so it detects entirely
+alert('key was pressed')
+})
+paste the switch statement iinside this so tht even sound is produced
+
+#callback function
+    the function tht is passed in as a input
+ document.addEventListener("keypress", respondToKey(event))
+ function respondToKey(event){
+ console.log('key is pressed')}
+
+call back helps to determine what function triggered tht evnt
+function anotherEventListener(typeofevent, callback)
+
+var eventththappend = {
+eventType = "keypressed"
+button = "p"
+}
+if (eventThtHappend === typeofevent){
+callback(eventThtHappend)
+}
+
+#button animation
+buttonAnimation(buttonInnerHTML) place this along with keys
+function buttonAnimation(currentKey){
+var activeButton = document.queryselector("."+currentKey)
+activeButton.classList.add("Pressed")
+time out function to get back the animation
+setTimeOut(myFunction(){
+activeButton.classList.remove("pressed");
+},100)
+}
