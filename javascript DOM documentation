@@ -19,6 +19,8 @@ document.getElementsByTagName - this helps in selecting stuffs all under a tagna
 style.color - gives color
 getElementbyTagName("li") - for getting stuffs from tagName .... choose the items [] to modify it...  .length for getting
 uses hierarchical selector
+for css it should be camel cased no dash ano;l
+value should be represented as string
 getElementsByClassName - by class name say like button anol
 getElementById - by ID since we have one id its singular
 querySelector() - This helps in finding all sorts of elements
