@@ -35,7 +35,11 @@ eventListener - it listen when something is done say clicking anol also has 2 pa
      1) type say what will it listern like mouse click 
      2) it say what to be done like handle cllick
 when evr parenthesis is added it shows of immediately this is called as straight away listener...handleClick()
-
+document.querySelector("button").classlist;
+.invincible{
+visibility : "Hidden"
+} for removingstuffs
+.attributes to remove to get all attributess
 
 ##higher order functions
 use $0 for grabbing the text u need change using console
