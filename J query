@@ -1,3 +1,70 @@
-uses $
-to add stuffs
+J query is a library like bootstrap tht helps in coding stuffs really fast
+instead of big javascript line we can go with
+$("h2") - this is the document.querySelector("h2")
+
+use google CDN for jquery
+<script src="https://ajax.googleapis.com/ajax/libs/jquery/3.6.0/jquery.min.js"></script>
+
+always place jquery above js src
+for changing
+$("h1").css("color","red")
+
+if both the cdn are in head give this function
+$ (document).ready(function(){
+$("h1").css("color","red")
+})
+
+instead of adding css directly to js
+create a class in css then  add the class to  js
+$("h1").addClass("classname")
+
+for removing class
+$("h1").removeClass("classname")
+for adding many class just include it along followed witha space
+.hasClass - for giving boolean values
+
+for changing text
+$("h1").text("classname")
+
+for adding html 
+$("h1").HTML("<em>hey</em>")
+
+for getting the src
+$("img").attr("src")
+chnges the link
+$("a").attr("href";https:yahoo)
+
+for changing the color when clicked
+$("h1").click(function(){
+$("h1").css("color","red")
+})
+
+for getting the keystrokes
+$("input").keypress(function(event){
+console.log(event.key)
+})
+
+for changing the text of along with key stroke
+$(document).keypress(function(event){
+$("h1").text(event.key)
+})
+
+changing stuffs for mouseover
+$("h1").on(function(){
+$("h1").css("color","red")
+})
+
+for adding button b4 h1
+$("h1").before("<btn>shaan</btn>")
+.after , .prepend before the content , .append afterthe content
+
+for removing stuffs
+$("h1").remove()
+
+animation 
+$("button").on("click",function() {
+$("h1").hide()
+})
+.toggle , .fadeOut , .fadeIn , .fadeToggle , .slideUp, .slideDown , .slideToggle , .animate({"opacity:0.5"}) use numerical values
+all these can be added together using a dot stuff
 
