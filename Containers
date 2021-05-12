@@ -6,3 +6,4 @@
 </body>
 
 the container adds the space and also it is very interactive no need to do further modifs
+ <input type="search" class="form-control rounded-pill "id="exampleFormControlInput1" placeholder="search Google or type a url">
