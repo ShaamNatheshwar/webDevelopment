@@ -32,6 +32,7 @@ $("h1").HTML("<em>hey</em>")
 for getting the src
 $("img").attr("src")
 chnges the link
+
 $("a").attr("href";https:yahoo)
 
 for changing the color when clicked
